@@ -15,6 +15,7 @@ Screenshots from the Clone:
 
 
 On smaller screens:
+
 ![image](https://github.com/mrtdn/NetflixLandingPageClone/assets/41941440/1a82bf3b-88e3-488b-b6d6-3a43b7cb44ac)
 
 
